@@ -1,0 +1,160 @@
+.side{
+    width: 5%;
+    height: 1000px;
+    background:white;
+    float: left;
+    position: fixed;
+}body{
+    margin: 0%;
+}.serch{
+    width: 95%;
+    height: 57px;
+    background: rgb(253, 253, 254);
+    margin-left:80px ;
+    
+}.mukal{
+    position: fixed;
+}
+.navbar{
+    width: 95%;
+    height: 57px;
+    background: white; 
+    display: flex;
+    justify-content: space-around ;
+    align-items: center;
+    margin-left:80px ;
+}.content{
+    display: grid;
+    max-width: 95%;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    grid-gap: 20px;
+    grid-template-rows: 310px 310px ;
+    background-color: rgb(251, 248, 245);
+    margin-left:80px ;
+    padding: 145px 20px 20px 20px;
+
+}
+.one,.two,.three,.four,.five,.six,.seven,.eight,.nine,.ten{
+    background: rgb(247, 242, 242);
+    border-radius: 14px;
+    padding: 7px 10px ;
+    border: solid 1px rgb(196, 192, 184);
+}
+.one,.all{
+    background: black;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.fa{
+    color: red;
+    margin: 7px;
+    margin-left: 25px;
+    float: left;
+    
+    
+}.you-name{
+    margin: 7px;
+     float: left;
+     
+
+}outer{
+    font-weight: bold;
+}.search{
+    margin: 6px;
+    width: 603px;
+    margin-left: 187px;
+    height: 36px;
+    float: left;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48;
+}.search-button{
+    width: 60px;
+    height: 42px;
+    margin-top: 6px;
+    margin-left: -9px;
+    float: left;
+    
+}.in{
+    float: left;
+    margin-top: 8px;
+    font-size: 13px;
+    float: left;
+
+}.mic-button{
+    border: none;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    margin-left: 8px;
+    margin-top: 7px;
+    float: left;
+}.video-button{
+    border: none;
+    background:none;
+    margin-left:90px;
+    float: left;
+    margin-top:15px ;
+    margin-left: 230px;
+}.bell-button{
+    border: none;
+    background: none;
+    float: left;
+    margin-top: 15px;
+    margin-left: 0px;
+}.ytacphoto{
+    position: relative;
+    width: 30px;
+    border-radius: 50%;
+    margin-top: 12px;
+    margin-left: 7px;
+}#menu{
+    margin-left: 25px;
+    margin-top: 20px;
+}#home{
+    margin-left: 25px;
+    margin-top: 20px; 
+}#shorts{
+    margin-left: 15px;
+    margin-top: -5px; 
+    width: 40px;
+}.home-name{
+    text-align: center;
+    margin-top: -5px; 
+    font-size: 13px;
+}#side-center{
+    margin-left: 25px;
+    margin-top: 20px;
+}#library{
+    margin-left: 25px;
+    margin-top: 0px;
+
+}.theme{
+    width: 100%;
+}.logo{
+    width: 37px;
+    border-radius: 50%;
+    margin-top: 7px;
+    float: left;
+    
+}.text{
+    font-size: 16px;
+    
+}.text-di{
+    margin-left: 45px;
+    margin-top: -30px;
+
+}.mail-di{
+    margin-left:45px ;
+    color: rgb(94, 94, 101);
+    margin-top: -15px;
+}p{
+    margin:0%;
+}
